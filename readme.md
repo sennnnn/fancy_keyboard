@@ -163,59 +163,59 @@ PCB 主要分为两大类:
 
 1. 100% (104, 108);
 
-![](illustration/Layout/100\%.png)
+![](illustration/Layout/100.png)
 
-![](illustration/Layout/100\%_Matrix_Cain.jpg)
+![](illustration/Layout/100_Matrix_Cain.jpg)
 
-![](illustration/Layout/100\%_Xikii_i104.jpg)
+![](illustration/Layout/100_Xikii_i104.jpg)
 
 2. 90% (96, 1800/980);
 
-![](illustration/Layout/90\%.jpg)
+![](illustration/Layout/90.jpg)
 
-![](illustration/Layout/90\%_Morgrie_96.jpg)
+![](illustration/Layout/90_Morgrie_96.jpg)
 
-![](illustration/Layout/90\%_Xikii_Master980.jpg)
+![](illustration/Layout/90_Xikii_Master980.jpg)
 
 (from [zfrontier](https://www.zfrontier.com/app/flow/2OX3oBg5w5Xg))
 
 3. 80%;
 
-![](illustration/Layout/80\%.png)
+![](illustration/Layout/80.png)
 
-![](illustration/Layout/80\%_Matrix%202.0add.jpg)
+![](illustration/Layout/80_Matrix%202.0add.jpg)
 
-![](illustration/Layout/80\%_Matrix_chris.jpg)
+![](illustration/Layout/80_Matrix_chris.jpg)
 
 4. 75%;
 
-![](illustration/Layout/75\%.png)
+![](illustration/Layout/75.png)
 
-![](illustration/Layout/75\%_E7V2.jpg)
+![](illustration/Layout/75_E7V2.jpg)
 
-![](illustration/Layout/75\%_7V.jpg)
+![](illustration/Layout/75_7V.jpg)
 
 5. 65%;
 
-![](illustration/Layout/65\%.png)
+![](illustration/Layout/65.png)
 
-![](illustration/Layout/65\%_space65r2.jpg)
+![](illustration/Layout/65_space65r2.jpg)
 
 (from [zfrontier](https://www.zfrontier.com/app/flow/4578xdyk9kyO))
 
-![](illustration/Layout/65\%_think6.5v2.png)
+![](illustration/Layout/65_think6.5v2.png)
 
 (from [drop](https://drop.com/talk/36475/think-6-5-r-2-2020))
 
 6. 60%;
 
-![](illustration/Layout/60\%.png)
+![](illustration/Layout/60.png)
 
-![](illustration/Layout/60\%_mojo60_robin.jpg)
+![](illustration/Layout/60_mojo60_robin.jpg)
 
 (from [zfrontier](https://www.zfrontier.com/app/flow/enwoZPQwLXgo?replyId=625628))
 
-![](illustration/Layout/60\%_DC60.jpeg)
+![](illustration/Layout/60_DC60.jpeg)
 
 (from [ALF Studio](https://kevinhong.me/alf/DC60Gallery/))
 
